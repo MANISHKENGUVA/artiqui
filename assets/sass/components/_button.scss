@@ -1,0 +1,8 @@
+.au-button {
+  background-color: $primary-base;
+  color:  $primary-shade-2;
+
+  &:hover {
+    background-color: $primary-shade-1;
+  }
+}
